@@ -10,36 +10,35 @@ using System.Windows.Forms;
 
 namespace gitflow_project
 {
-    public partial class Form1 : Form
+    public partial class Form3 : Form
     {
         entidad ent = entidad.GetInstance();
         database db = new database();
-        public Form1()
+        public Form3()
         {
             InitializeComponent();
         }
-        
-        void llenarTabla()
+
+        Form3(database test)
         {
-            DataTable dt = db.llenarTabla();
-            dataGridView1.DataSource = dt;
-            ent.db = db;
+            //db = test;
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
+            ent.ruta = textBox1.Text;
+            ent.destino = textBox2.Text;
+            ent.hora_partida = textBox3.Text;
+            ent.hora_llegada = textBox4.Text;
+            ent.precio = int.Parse(textBox5.Text);
 
-        }
-
-        private void button5_Click(object sender, EventArgs e)
-        {
-            llenarTabla();
+            db.insertarDatos();
+            ent.db.llenarTabla();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form3 ventana = new Form3();    
-            ventana.ShowDialog();
+            Dispose();
         }
     }
 }

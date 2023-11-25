@@ -8,3 +8,4 @@ C:\Users\Daniel\Desktop\gitflow project\gitflow-project\gitflow-project\obj\Debu
 C:\Users\Daniel\Desktop\gitflow project\gitflow-project\gitflow-project\obj\Debug\gitflow-project.csproj.CoreCompileInputs.cache
 C:\Users\Daniel\Desktop\gitflow project\gitflow-project\gitflow-project\obj\Debug\gitflow-project.exe
 C:\Users\Daniel\Desktop\gitflow project\gitflow-project\gitflow-project\obj\Debug\gitflow-project.pdb
+C:\Users\Daniel\Desktop\gitflow project\gitflow-project\gitflow-project\obj\Debug\gitflow_project.Form3.resources
