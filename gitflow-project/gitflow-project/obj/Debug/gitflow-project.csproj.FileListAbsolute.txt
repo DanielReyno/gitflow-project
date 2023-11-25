@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\gitflow project\gitflow-project\gitflow-project\bin\Debug\gitflow-project.exe.config
+C:\Users\Daniel\Desktop\gitflow project\gitflow-project\gitflow-project\bin\Debug\gitflow-project.exe
+C:\Users\Daniel\Desktop\gitflow project\gitflow-project\gitflow-project\bin\Debug\gitflow-project.pdb
+C:\Users\Daniel\Desktop\gitflow project\gitflow-project\gitflow-project\obj\Debug\gitflow-project.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\gitflow project\gitflow-project\gitflow-project\obj\Debug\gitflow_project.Form1.resources
+C:\Users\Daniel\Desktop\gitflow project\gitflow-project\gitflow-project\obj\Debug\gitflow_project.Properties.Resources.resources
+C:\Users\Daniel\Desktop\gitflow project\gitflow-project\gitflow-project\obj\Debug\gitflow-project.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\gitflow project\gitflow-project\gitflow-project\obj\Debug\gitflow-project.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\gitflow project\gitflow-project\gitflow-project\obj\Debug\gitflow-project.exe
+C:\Users\Daniel\Desktop\gitflow project\gitflow-project\gitflow-project\obj\Debug\gitflow-project.pdb
