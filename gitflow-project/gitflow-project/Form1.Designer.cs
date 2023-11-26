@@ -35,6 +35,7 @@
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -117,9 +118,19 @@
             this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.label1.Location = new System.Drawing.Point(144, 18);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(753, 32);
+            this.label1.Size = new System.Drawing.Size(772, 34);
             this.label1.TabIndex = 6;
             this.label1.Text = "Sistema de transporte (Demo version)";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.ForeColor = System.Drawing.SystemColors.Control;
+            this.label2.Location = new System.Drawing.Point(948, 33);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(41, 16);
+            this.label2.TabIndex = 7;
+            this.label2.Text = "v1.1.0";
             // 
             // Form1
             // 
@@ -127,6 +138,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.OliveDrab;
             this.ClientSize = new System.Drawing.Size(1026, 642);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
@@ -152,6 +164,7 @@
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
     }
 }
 
